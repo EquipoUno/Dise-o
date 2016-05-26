@@ -1,0 +1,22 @@
+\BOOKMARK [0][-]{chapter.1}{Introducci\363n}{}% 1
+\BOOKMARK [0][-]{chapter.2}{Organizaci\363n}{}% 2
+\BOOKMARK [0][-]{chapter.3}{Glosario de T\351rminos}{}% 3
+\BOOKMARK [1][-]{section.3.1}{Glosario de t\351rminos}{chapter.3}% 4
+\BOOKMARK [0][-]{chapter.4}{Stakeholder}{}% 5
+\BOOKMARK [0][-]{chapter.5}{Lineamientos de Dise\361o}{}% 6
+\BOOKMARK [1][-]{section.5.1}{Especificaciones del Dise\361o}{chapter.5}% 7
+\BOOKMARK [1][-]{section.5.2}{Compra del Dise\361o}{chapter.5}% 8
+\BOOKMARK [1][-]{section.5.3}{Acuerdos y Estandares}{chapter.5}% 9
+\BOOKMARK [0][-]{chapter.6}{Modelo L\363gico}{}% 10
+\BOOKMARK [1][-]{section.6.1}{Descomposicion del Sistema}{chapter.6}% 11
+\BOOKMARK [1][-]{section.6.2}{Descomposicion de los Sistemas}{chapter.6}% 12
+\BOOKMARK [2][-]{subsection.6.2.1}{Descomposicion Logica de del subsistema VISTA}{section.6.2}% 13
+\BOOKMARK [2][-]{subsection.6.2.2}{Descomposicion Logica de del subsistema NEGOCIO}{section.6.2}% 14
+\BOOKMARK [2][-]{subsection.6.2.3}{Descomposicion Logica de del subsistema DAO}{section.6.2}% 15
+\BOOKMARK [1][-]{section.6.3}{Descomposicion del Modelo}{chapter.6}% 16
+\BOOKMARK [0][-]{chapter.7}{Modelo Din\341mico}{}% 17
+\BOOKMARK [1][-]{section.7.1}{Modelo Dinamico de \(Ej: Gestion de Personal\)}{chapter.7}% 18
+\BOOKMARK [2][-]{subsection.7.1.1}{Escenarios de ... \(Ej: Resgistro de Personal\)}{section.7.1}% 19
+\BOOKMARK [0][-]{chapter.8}{Modelo Dise\361o del Problema}{}% 20
+\BOOKMARK [1][-]{section.8.1}{Modelo de Definicion de Datos \(DDL\)}{chapter.8}% 21
+\BOOKMARK [1][-]{section.8.2}{Modelo de Manipulacion de Datos}{chapter.8}% 22

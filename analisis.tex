@@ -1,0 +1,71 @@
+\documentclass[oneside,10pt]{book}
+
+\usepackage{cdtBook}
+\usepackage{usecases}
+\usepackage{float}
+\usepackage{graphicx}
+
+\title{Clínica de homeopatía}
+\subtitle{Sistema gestor de clínica}
+\author{EquipoUNO}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{document}
+
+\maketitle
+\thispagestyle{empty}
+
+\frontmatter
+\tableofcontents
+
+\mainmatter
+
+%=========================================================
+\chapter{Introducción}
+
+\cfinput{introduccion}
+
+%=========================================================
+\chapter{Organización}
+
+\cfinput{organizacion}
+
+%=========================================================
+\chapter{Glosario de Términos}
+
+\cfinput{brGlosario}
+
+%=========================================================
+\chapter{Stakeholder}
+
+\cfinput{brStakeholder}
+
+%=========================================================
+\chapter{Lineamientos de Diseño}
+	
+\cfinput{brLineamientos}
+
+%%=========================================================
+\chapter{Modelo Lógico}
+
+\cfinput{brDescomposicion}
+\cfinput{brDescomposicionSistemas}
+\cfinput{brDescomposicionVista}
+\cfinput{brDescomposicionNegocio}
+\cfinput{brDescomposicionDAO}
+\cfinput{brDescomposicionModelo}
+
+%=========================================================
+\chapter{Modelo Dinámico}
+	
+\cfinput{brModeloGestionP}
+\cfinput{brEscenarios}
+
+%=========================================================
+\chapter{Modelo Diseño del Problema}
+
+\cfinput{brDDL}
+\cfinput{brManipulacionDatos}
+	
+\end{document}
