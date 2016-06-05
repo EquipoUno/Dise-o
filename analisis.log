@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.4.2)  5 JUN 2016 13:48
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.4.2)  5 JUN 2016 17:21
 entering extended mode
 **analisis.tex
 (C:\Users\Diana\Documents\GitHub\Dise-o\analisis.tex
@@ -819,7 +819,7 @@ l.30 \chapter
 Cap\'{\i }tulo 2.
 (C:\Users\Diana\Documents\GitHub\Dise-o\organizacion.tex
 (C:\Users\Diana\Documents\GitHub\Dise-o\diagramas/Login.tex
-<images/diagramas/Login.png, id=26, 816.80156pt x 435.12563pt>
+<images/diagramas/Login.png, id=113, 816.80156pt x 435.12563pt>
 File: images/diagramas/Login.png Graphic file (type png)
 
 <use images/diagramas/Login.png>
@@ -827,7 +827,7 @@ Package pdftex.def Info: images/diagramas/Login.png used on input line 2.
 (pdftex.def)             Requested size: 422.99713pt x 225.3371pt.
 )
 (C:\Users\Diana\Documents\GitHub\Dise-o\diagramas/Compra.tex
-<images/diagramas/DSCompra.jpg, id=28, 578.91281pt x 425.33907pt>
+<images/diagramas/DSCompra.jpg, id=115, 578.91281pt x 425.33907pt>
 File: images/diagramas/DSCompra.jpg Graphic file (type jpg)
 
 <use images/diagramas/DSCompra.jpg>
@@ -835,7 +835,7 @@ Package pdftex.def Info: images/diagramas/DSCompra.jpg used on input line 2.
 (pdftex.def)             Requested size: 422.99713pt x 310.78699pt.
 )
 (C:\Users\Diana\Documents\GitHub\Dise-o\diagramas/Busqueda.tex
-<images/diagramas/DSBusqueda.jpg, id=29, 555.57562pt x 344.78813pt>
+<images/diagramas/DSBusqueda.jpg, id=116, 555.57562pt x 344.78813pt>
 File: images/diagramas/DSBusqueda.jpg Graphic file (type jpg)
 
 <use images/diagramas/DSBusqueda.jpg>
@@ -843,7 +843,7 @@ Package pdftex.def Info: images/diagramas/DSBusqueda.jpg used on input line 2.
 (pdftex.def)             Requested size: 422.99713pt x 262.51518pt.
 )
 (C:\Users\Diana\Documents\GitHub\Dise-o\diagramas/CreaExp.tex
-<images/diagramas/DSCreaExp.jpg, id=30, 639.89063pt x 317.68687pt>
+<images/diagramas/DSCreaExp.jpg, id=117, 639.89063pt x 317.68687pt>
 File: images/diagramas/DSCreaExp.jpg Graphic file (type jpg)
 
 <use images/diagramas/DSCreaExp.jpg>
@@ -851,7 +851,7 @@ Package pdftex.def Info: images/diagramas/DSCreaExp.jpg used on input line 2.
 (pdftex.def)             Requested size: 422.99713pt x 210.00845pt.
 )
 (C:\Users\Diana\Documents\GitHub\Dise-o\diagramas/ModificaExp.tex
-<images/diagramas/DSModificaExp.jpg, id=31, 663.98062pt x 337.26pt>
+<images/diagramas/DSModificaExp.jpg, id=118, 663.98062pt x 337.26pt>
 File: images/diagramas/DSModificaExp.jpg Graphic file (type jpg)
 
 <use images/diagramas/DSModificaExp.jpg>
@@ -860,7 +860,7 @@ Package pdftex.def Info: images/diagramas/DSModificaExp.jpg used on input line
 (pdftex.def)             Requested size: 422.99713pt x 214.85759pt.
 )
 (C:\Users\Diana\Documents\GitHub\Dise-o\diagramas/Receta.tex
-<images/diagramas/DSReceta.jpg, id=32, 534.49687pt x 340.27126pt>
+<images/diagramas/DSReceta.jpg, id=119, 534.49687pt x 340.27126pt>
 File: images/diagramas/DSReceta.jpg Graphic file (type jpg)
 
 <use images/diagramas/DSReceta.jpg>
@@ -869,7 +869,7 @@ Package pdftex.def Info: images/diagramas/DSReceta.jpg used on input line 2.
 )) [2
 
 ]
-<images/headerInp.png, id=49, 1858.945pt x 358.33875pt>
+<images/headerInp.png, id=126, 1858.945pt x 358.33875pt>
 File: images/headerInp.png Graphic file (type png)
 
 <use images/headerInp.png>
@@ -971,7 +971,7 @@ LaTeX Font Info:    Font shape `OMS/cmbr/m/n' in size <10> not available
 
 ]
 Cap\'{\i }tulo 5.
-[8
+(C:\Users\Diana\Documents\GitHub\Dise-o\brLineamientos.tex) [8
 
 ]
 Cap\'{\i }tulo 6.
@@ -998,44 +998,41 @@ Package rerunfilecheck Warning: File `analisis.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `analisis.out':
-(rerunfilecheck)             Before: 4FBE8C9E80917F58E7B3C98A06D7AC71;51
-(rerunfilecheck)             After:  67E08590941675A4A5F9FEF3AEEE1C0C;1058.
+(rerunfilecheck)             Before: 67E08590941675A4A5F9FEF3AEEE1C0C;1058
+(rerunfilecheck)             After:  065DC1535F1BC78780EB47346C0BD9CE;1273.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 71.
  ) 
 Here is how much of TeX's memory you used:
- 9415 strings out of 493921
- 133874 string characters out of 3147283
- 225698 words of memory out of 3000000
- 12467 multiletter control sequences out of 15000+200000
+ 9439 strings out of 493921
+ 134277 string characters out of 3147283
+ 227171 words of memory out of 3000000
+ 12485 multiletter control sequences out of 15000+200000
  15168 words of font info for 57 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 48i,15n,45p,360b,380s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 48i,15n,45p,456b,380s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\Diana\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\public\cmbright\dpi
 600\cmbrsy10.pk> <C:\Users\Diana\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\publi
 c\cmbright\dpi600\cmbrmi10.pk> <C:\Users\Diana\AppData\Local\MiKTeX\2.9\fonts\p
-k\ljfour\public\cmbright\dpi600\cmbrbx10.pk> <C:\Users\Diana\AppData\Local\MiKT
-eX\2.9\fonts\pk\ljfour\public\cmbright\dpi600\cmbr8.pk> <C:\Users\Diana\AppData
-\Local\MiKTeX\2.9\fonts\pk\ljfour\public\cmbright\dpi375\cmbrsl8.pk> <C:\Users\
-Diana\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\public\cmbright\dpi720\cmbrbx10.
+k\ljfour\public\cmbright\dpi600\cmbr8.pk> <C:\Users\Diana\AppData\Local\MiKTeX\
+2.9\fonts\pk\ljfour\public\cmbright\dpi375\cmbrsl8.pk> <C:\Users\Diana\AppData\
+Local\MiKTeX\2.9\fonts\pk\ljfour\public\cmbright\dpi720\cmbrbx10.pk> <C:\Users\
+Diana\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\public\cmbright\dpi864\cmbrbx10.
 pk> <C:\Users\Diana\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\public\cmbright\dp
-i864\cmbrbx10.pk> <C:\Users\Diana\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\publ
-ic\cmbright\dpi600\cmbr10.pk> <C:\Users\Diana\AppData\Local\MiKTeX\2.9\fonts\pk
-\ljfour\public\cmbright\dpi525\cmbr8.pk> <C:\Users\Diana\AppData\Local\MiKTeX\2
+i525\cmbr8.pk> <C:\Users\Diana\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\public\
+cmbright\dpi600\cmbr10.pk> <C:\Users\Diana\AppData\Local\MiKTeX\2.9\fonts\pk\lj
+four\public\cmbright\dpi600\cmbrbx10.pk> <C:\Users\Diana\AppData\Local\MiKTeX\2
 .9\fonts\pk\ljfour\public\cmbright\dpi864\cmbr10.pk> <C:\Users\Diana\AppData\Lo
 cal\MiKTeX\2.9\fonts\pk\ljfour\public\cmbright\dpi720\cmbr10.pk> <C:\Users\Dian
 a\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\public\cmbright\dpi600\cmbr17.pk> <C
 :\Users\Diana\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\public\cmbright\dpi864\c
 mbr17.pk><C:/Program Files/MiKTeX 2.9/fonts/type1/public/marvosym/marvosym.pfb>
 
-Output written on analisis.pdf (13 pages, 524171 bytes).
+Output written on analisis.pdf (13 pages, 541971 bytes).
 PDF statistics:
- 455 PDF objects out of 1000 (max. 8388607)
- 44 named destinations out of 1000 (max. 500000)
- 44 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 553 PDF objects out of 1000 (max. 8388607)
+ 47 named destinations out of 1000 (max. 500000)
+ 180 words of extra memory for PDF output out of 10000 (max. 10000000)
 
