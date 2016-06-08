@@ -4,18 +4,21 @@
 \BOOKMARK [1][-]{section.2.2}{BPMN}{chapter.2}% 4
 \BOOKMARK [1][-]{section.2.3}{Diagramas de secuencia}{chapter.2}% 5
 \BOOKMARK [2][-]{subsection.2.3.1}{Login}{section.2.3}% 6
-\BOOKMARK [2][-]{subsection.2.3.2}{Login}{section.2.3}% 7
-\BOOKMARK [2][-]{subsection.2.3.3}{Login}{section.2.3}% 8
-\BOOKMARK [2][-]{subsection.2.3.4}{Login}{section.2.3}% 9
-\BOOKMARK [2][-]{subsection.2.3.5}{Login}{section.2.3}% 10
-\BOOKMARK [2][-]{subsection.2.3.6}{Login}{section.2.3}% 11
-\BOOKMARK [0][-]{chapter.3}{Glosario de T\351rminos}{}% 12
-\BOOKMARK [1][-]{section.3.1}{Glosario de t\351rminos}{chapter.3}% 13
-\BOOKMARK [0][-]{chapter.4}{Stakeholder}{}% 14
-\BOOKMARK [0][-]{chapter.5}{Lineamientos de Dise\361o}{}% 15
-\BOOKMARK [1][-]{section.5.1}{Especificaciones del Dise\361o}{chapter.5}% 16
-\BOOKMARK [1][-]{section.5.2}{Compra del Dise\361o}{chapter.5}% 17
-\BOOKMARK [1][-]{section.5.3}{Acuerdos y Estandares}{chapter.5}% 18
-\BOOKMARK [0][-]{chapter.6}{Modelo L\363gico}{}% 19
-\BOOKMARK [0][-]{chapter.7}{Modelo Din\341mico}{}% 20
-\BOOKMARK [0][-]{chapter.8}{Modelo Dise\361o del Problema}{}% 21
+\BOOKMARK [2][-]{subsection.2.3.2}{Compra de medicamentos}{section.2.3}% 7
+\BOOKMARK [2][-]{subsection.2.3.3}{Busqueda}{section.2.3}% 8
+\BOOKMARK [2][-]{subsection.2.3.4}{Crear expediente}{section.2.3}% 9
+\BOOKMARK [2][-]{subsection.2.3.5}{Modificar expediente}{section.2.3}% 10
+\BOOKMARK [2][-]{subsection.2.3.6}{Generar receta}{section.2.3}% 11
+\BOOKMARK [2][-]{subsection.2.3.7}{Agregar Medicamento}{section.2.3}% 12
+\BOOKMARK [2][-]{subsection.2.3.8}{Registrar Medicamento}{section.2.3}% 13
+\BOOKMARK [2][-]{subsection.2.3.9}{Registrar Usuario}{section.2.3}% 14
+\BOOKMARK [0][-]{chapter.3}{Glosario de T\351rminos}{}% 15
+\BOOKMARK [1][-]{section.3.1}{Glosario de t\351rminos}{chapter.3}% 16
+\BOOKMARK [0][-]{chapter.4}{Stakeholder}{}% 17
+\BOOKMARK [0][-]{chapter.5}{Lineamientos de Dise\361o}{}% 18
+\BOOKMARK [1][-]{section.5.1}{Especificaciones del Dise\361o}{chapter.5}% 19
+\BOOKMARK [1][-]{section.5.2}{Compra del Dise\361o}{chapter.5}% 20
+\BOOKMARK [1][-]{section.5.3}{Acuerdos y Estandares}{chapter.5}% 21
+\BOOKMARK [0][-]{chapter.6}{Modelo L\363gico}{}% 22
+\BOOKMARK [0][-]{chapter.7}{Modelo Din\341mico}{}% 23
+\BOOKMARK [0][-]{chapter.8}{Modelo Dise\361o del Problema}{}% 24
